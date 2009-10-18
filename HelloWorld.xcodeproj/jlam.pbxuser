@@ -1,5 +1,20 @@
 // !$*UTF8*$!
 {
+	1D3623240D0F684500981E51 /* HelloWorldAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 604}}";
+			sepNavSelRange = "{466, 0}";
+			sepNavVisRange = "{0, 466}";
+			sepNavWindowFrame = "{{938, 0}, {944, 1068}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* HelloWorldAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 843}}";
+			sepNavSelRange = "{188, 0}";
+			sepNavVisRange = "{0, 1125}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* HelloWorld */ = {
 		activeExec = 0;
 		executables = (
@@ -10,6 +25,9 @@
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 6EFCE627108B94DA00A051C6 /* HelloWorld */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* HelloWorld */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* HelloWorld */,
+		);
 		codeSenseManager = 6EFCE637108B94DE00A051C6 /* Code sense */;
 		executables = (
 			6EFCE627108B94DA00A051C6 /* HelloWorld */,
@@ -20,7 +38,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					435,
 					20,
 					48.16259765625,
 					43,
@@ -37,11 +55,27 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 277583066;
-			PBXWorkspaceStateSaveDate = 277583066;
+			PBXPerProjectTemplateStateSaveDate = 277591379;
+			PBXWorkspaceStateSaveDate = 277591379;
 		};
 		sourceControlManager = 6EFCE636108B94DE00A051C6 /* Source Control */;
 		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {613, 843}}";
+			sepNavSelRange = "{283, 17}";
+			sepNavVisRange = "{0, 365}";
+			sepNavWindowFrame = "{{519, -18}, {944, 1068}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* HelloWorld_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 843}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+			sepNavWindowFrame = "{{61, 63}, {944, 1068}}";
 		};
 	};
 	6EFCE627108B94DA00A051C6 /* HelloWorld */ = {
@@ -60,6 +94,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -84,5 +119,24 @@
 	6EFCE637108B94DE00A051C6 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	6EFCE692108BAFA000A051C6 /* MyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 604}}";
+			sepNavSelRange = "{40, 0}";
+			sepNavVisRange = "{0, 232}";
+		};
+	};
+	6EFCE693108BAFA000A051C6 /* MyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 843}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1396}";
+		};
+	};
+	8D1107310486CEB800E47090 /* HelloWorld-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{84, 42}, {944, 1068}}";
+		};
 	};
 }
